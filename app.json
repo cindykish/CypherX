@@ -16,7 +16,7 @@
 "env": {
   "SESSION_ID": {
     "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
-    "value": "",
+    "value": "XPLOADER-BOT:~fnxTgDZZ#y3oUy4r-j2W_Py2k_Eg_Ur7CpBZ1e6HAQ-AUkmGbOUg",
     "required": false
   },
   "BOT_NAME": {
@@ -31,7 +31,7 @@
   },
   "OWNER_NAME": {
     "description": "The name of the primary owner of the bot.",
-    "value": "",
+    "value": "Dee Amor",
     "required": true
   },
   "MENU_IMAGE": {
