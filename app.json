@@ -18,41 +18,6 @@
     "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
     "value": "CYPHER-X:~UEsDBBQAAAgIAKxttFrQQY+gdwQAAIkHAAAKAAAAY3JlZHMuanNvbpVUy5KiSBT9l9y20aICIhEV0QgKiAo+0LImepFCkiDvzETEDiPmE+oHarazmJ+rT5igHt29mOmpYZXczDj33HvOvd9AlkcUWagB8jdQkOgMGWqPrCkQkMG4CgJEQAf4kEEgA1eLVqMT3oyYYolhXKCyG19G6mbfP9XzSV+Ec78xh3VsufwduHVAUR2TyPsF4OXYWLSOdLtA3mRxIKI6HDSzdd*FFrdQta6QH3ShnGO7ru*ArUWEEYkyPClClCICEws1DozIx+jb+jTZncmliBWOqQTHQ8UclddT0y0FnyRIW*ci*DCcLrPFx+gf8cgdGFjgnfrqjPpl6U4otGzMNVWsDrZzMXNn4umi6Pv8lT6NcIZ800cZi1jz4b73LdHv4nLkcKG+u+Qzf7pEyUEzd9xitu7aV8Sb01mdU9uNP0Y8YQc6gn0Yoktoq85RMQ1UosS+HxfsMj98EiqsXoUZPGwWPxN3yLtX4v*Td7jEmrasxwejr9jkUzbVmDA3HpxK5*L1dd+cK8TOu3V37Uofo3+fpchqjg*8bpjn+n6CyHg3PhF+UvRWYRg4dFBeTjCuOffwgz5kFfkVS5xwzepYL6+DemWz7YC3H7bdrWQ6mXNeO9VGnNGZuBovy5HWpH28L7VddR8e96xuBt5K0Qo1UyaJf1JgI1nEc*17Y6Tiu5eKYtSYPpB7tw4gCEeUEciiPGtj*KADoH*eII8g9tJdkNmBvptoYrpgZ43UhPTjreMdV6v1MSMClra9XU9Slpyzre9ABxQk9xClyDciynLSLBClECMK5N++dkCGLuxVtzbbYNQBQUQoc7OqSHLov4v6fgk9L68ytmkyT20PiACZ+xFGjEUZpm0bqwwSL4zOSA0ho0AOYELR9wIRQT6QGanQ96FVc7*tuzjVHIe3RNAB6Ysekd9aXOB7nMQJnNgX5MEX+rluUWFRfM4QAx2QwfYxeH56*P356fGv56fHp+enxz+enx7*BB2QvGEM+0Kf6wn8aMjzojz40sZv39m3yXzEYJRQIAPVPMaXB0mdLFOb0omuKwusqFgBP6p9d82rLNJSoWg2TBXvvlSTzXRTrU+Nu7*aXCPlBwkFvd51kWX3eKPc*QMIkAEhD93SnV6t83JE4vnYZQZf51HPXAzKEsKiy2ZpYS6k0NGJG+pGXc6hgXCt0m1anE6uGJDAK0JHH5znTRmaudS1NeWuzeajc+Shn5OJ9wVLZqJK0k*cYRWvu3Npu52uXD6Y0*POZLgad*eNHxkXvbLGVXFszAMneKq14oqMmt3FxJq6aeH7q4qVx1Vd8+V5XL*6+WWekrc9Fr1YrdWx*Q0i9LIW3gT7L11febfu426dnyDe9sy*zOo40FZzI0ICNqYiLtzQJfFBSqb0yhZnS3eMbOR715nQ4ycY3G5fO6BIIAtykgIZ0PQIQQeQvGq9bGZB*otMqoJN5W2KE0iZ8mM+tlGKKINpAeTekB8OeWnY415fOSQvDEhDIIOexYcG35q9UYpiwyB7HzegtN8s2IPb31BLAQIUAxQAAAgIAKxttFrQQY+gdwQAAIkHAAAKAAAAAAAAAAAAAACAgQAAAABjcmVkcy5qc29uUEsFBgAAAAABAAEAOAAAAJ8EAAAAAA==",
     "required": false
-  },
-  "BOT_NAME": {
-    "description": "The display name of the bot as it will appear in interactions.",
-    "value": "CypherX",
-    "required": false
-  },
-  "OWNER_NUMBER": {
-    "description": "The primary owner's WhatsApp number, including country code (e.g., 2547XXXXXXXX).",
-    "value": "",
-    "required": true
-  },
-  "OWNER_NAME": {
-    "description": "The name of the primary owner of the bot.",
-    "value": "",
-    "required": true
-  },
-  "MENU_IMAGE": {
-    "description": "Enter the urls of images that you wish to be set as menu image. Separate with a comma if it's more than 1. Reply to an image using .tourl to get one.",
-    "value": "https://example.com/image1.jpg, https://example.com/image2.png",
-    "required": false
-  },
-  "HEROKU_API_KEY": {
-    "description": "Heroku API key used for accessing and managing your Heroku app programmatically.",
-    "value": "",
-    "required": false
-  },
-  "HEROKU_APP_NAME": {
-    "description": "The exact name of your Heroku application that you've just entered above.",
-    "value": "",
-    "required": false
-  },
-  "TIMEZONE": {
-    "description": "Timezone for the bot's internal clock (e.g., Africa/Nairobi). Used for time-based functions. Don't change or Google if you don't know!",
-    "value": "Africa/Nairobi",
-    "required": false
   }
 },
   "buildpacks": [
